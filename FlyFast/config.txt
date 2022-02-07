@@ -1,0 +1,29 @@
+1500
+3000
+6500
+
+
+//Fly mode
+
+
+Set value to "true" for your right hand to be the direction of movement;
+false
+
+Set value to "true" to enable dot movement;
+true
+
+Make sure not to set any values above 8000 or it will turn off.
+
+//Intructions 
+
+line 0 is B
+line 1 is grips + B
+line 2 is triggers + B + grips
+line 9, false = head direction, true = right hand direction
+
+
+recomended speeds:
+
+1500
+3000
+6500
